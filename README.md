@@ -10,18 +10,16 @@ Winning Logic: The game checks for a winner after each move and declares the vic
 Error Handling: Comprehensive error handling to ensure a smooth and bug-free gaming experience.
 Restart Option: Players have the option to restart the game after completion.
 How to Play
-#Clone the Repository:
-
- #bash
+# Clone the Repository:
 Copy code
 git clone https://github.com/lahcenassmira/Tic-Tac.git
 # Navigate to the Project Directory:
 
-bash
-Copy code
+# bash
+
 cd Tic-Tac
 
 
 
-#Contributing
+# Contributing
 Contributions are welcome! If you would like to enhance the game or fix any bugs, feel free to submit a pull request.
