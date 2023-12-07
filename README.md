@@ -1,4 +1,4 @@
-#Tic Tac Toe Game
+# Tic Tac Toe Game
 
 
 A simple and classic implementation of the Tic Tac Toe game in javaScript. This project provides a two-player console-based game where players take turns to mark 'X' or 'O' on a 3x3 grid. The first player to complete a row, column, or diagonal with their symbol wins the game.
@@ -14,8 +14,8 @@ How to Play
 
  #bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe.git
-#Navigate to the Project Directory:
+git clone https://github.com/lahcenassmira/Tic-Tac.git
+# Navigate to the Project Directory:
 
 bash
 Copy code
