@@ -14,7 +14,7 @@
 
 
 .title {
-    background-color: #f25;
+    background-color: yellow;
     padding:5px 0;
     margin: 5px 0;
  
@@ -31,7 +31,7 @@ span {
 .square{
    width: 80px;
    height: 80px;
-    background-color: #f25;
+    background-color: yellow;
     float: left;
     margin: 2.4px;
     font-size: 50px;
