@@ -1,8 +1,7 @@
 
 let title = document.querySelector('.title');
 let turn = "x";
-let squares = []; //ga3 square kinin wst hd array
-// had fct sahlat 3lya nb9a n3awdha fi kol condition  
+let squares = []; 
 function end(num1,num2,num3){
    title.innerHTML = `${squares[num1]} Winner`;
   title.style.color = "green";
@@ -14,8 +13,8 @@ function end(num1,num2,num3){
 }
 function winner() {
     for (let i = 1; i < 10; i++) {
-        //hna dart i tbda bi wa7d mn ba3d fi item ibda itabi 1 et 2 ... item1 ..etc
-        squares[i] = document.getElementById('item' + i).innerHTML;  // ghdi ijin 9 l3anasir + khasni n9arn innerHTML X O
+       
+        squares[i] = document.getElementById('item' + i).innerHTML;  
 
     }
     if (squares[1] == squares[2] && squares[2] == squares[3] && squares[1] != '') {
